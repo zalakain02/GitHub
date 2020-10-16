@@ -1,0 +1,12 @@
+D:\@vb\VB PROJECTS\ComoTeLLamas\bin\Debug\netcoreapp3.1\ComoTeLLamas.exe
+D:\@vb\VB PROJECTS\ComoTeLLamas\bin\Debug\netcoreapp3.1\ComoTeLLamas.deps.json
+D:\@vb\VB PROJECTS\ComoTeLLamas\bin\Debug\netcoreapp3.1\ComoTeLLamas.runtimeconfig.json
+D:\@vb\VB PROJECTS\ComoTeLLamas\bin\Debug\netcoreapp3.1\ComoTeLLamas.runtimeconfig.dev.json
+D:\@vb\VB PROJECTS\ComoTeLLamas\bin\Debug\netcoreapp3.1\ComoTeLLamas.dll
+D:\@vb\VB PROJECTS\ComoTeLLamas\bin\Debug\netcoreapp3.1\ComoTeLLamas.pdb
+D:\@vb\VB PROJECTS\ComoTeLLamas\obj\Debug\netcoreapp3.1\ComoTeLLamas.AssemblyInfoInputs.cache
+D:\@vb\VB PROJECTS\ComoTeLLamas\obj\Debug\netcoreapp3.1\ComoTeLLamas.AssemblyInfo.vb
+D:\@vb\VB PROJECTS\ComoTeLLamas\obj\Debug\netcoreapp3.1\ComoTeLLamas.vbproj.CoreCompileInputs.cache
+D:\@vb\VB PROJECTS\ComoTeLLamas\obj\Debug\netcoreapp3.1\ComoTeLLamas.dll
+D:\@vb\VB PROJECTS\ComoTeLLamas\obj\Debug\netcoreapp3.1\ComoTeLLamas.pdb
+D:\@vb\VB PROJECTS\ComoTeLLamas\obj\Debug\netcoreapp3.1\ComoTeLLamas.genruntimeconfig.cache

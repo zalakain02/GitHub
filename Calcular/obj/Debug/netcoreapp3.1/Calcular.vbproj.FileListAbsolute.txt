@@ -1,0 +1,12 @@
+D:\@vb\VB PROJECTS\Calcular\bin\Debug\netcoreapp3.1\Calcular.exe
+D:\@vb\VB PROJECTS\Calcular\bin\Debug\netcoreapp3.1\Calcular.deps.json
+D:\@vb\VB PROJECTS\Calcular\bin\Debug\netcoreapp3.1\Calcular.runtimeconfig.json
+D:\@vb\VB PROJECTS\Calcular\bin\Debug\netcoreapp3.1\Calcular.runtimeconfig.dev.json
+D:\@vb\VB PROJECTS\Calcular\bin\Debug\netcoreapp3.1\Calcular.dll
+D:\@vb\VB PROJECTS\Calcular\bin\Debug\netcoreapp3.1\Calcular.pdb
+D:\@vb\VB PROJECTS\Calcular\obj\Debug\netcoreapp3.1\Calcular.AssemblyInfoInputs.cache
+D:\@vb\VB PROJECTS\Calcular\obj\Debug\netcoreapp3.1\Calcular.AssemblyInfo.vb
+D:\@vb\VB PROJECTS\Calcular\obj\Debug\netcoreapp3.1\Calcular.vbproj.CoreCompileInputs.cache
+D:\@vb\VB PROJECTS\Calcular\obj\Debug\netcoreapp3.1\Calcular.dll
+D:\@vb\VB PROJECTS\Calcular\obj\Debug\netcoreapp3.1\Calcular.pdb
+D:\@vb\VB PROJECTS\Calcular\obj\Debug\netcoreapp3.1\Calcular.genruntimeconfig.cache
